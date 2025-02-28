@@ -1,6 +1,6 @@
 package main.java.com.eshop.order_service.referentiel;
 
-import com.eshop.commandeservice.entite.Commande;
+import main.java.com.eshop.order_service.entite.Commande;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
